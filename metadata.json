@@ -1,0 +1,10 @@
+{
+  "id": "abc12345-6789-1011-1213-141516171819",
+  "queryName": "Detect Risky Ansible Tasks for Production Downtime",
+  "severity": "HIGH",
+  "category": "Availability",
+  "descriptionText": "Flags risky Ansible tasks that may cause production downtime due to service restarts, reboots, or critical modifications without safeguards.",
+  "descriptionUrl": "https://docs.ansible.com/ansible/latest/collections/ansible/builtin/",
+  "platform": "Ansible",
+  "descriptionID": "abc12345"
+}
